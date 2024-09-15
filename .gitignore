@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django specific
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
+
+# Static files (for easy-thumbnails, if you're generating thumbnail images)
+media/
+static/
+staticfiles/
+*_thumbs/
+
+# Environment variables
+.env
+
+# OAuth-related tokens and secret keys
+*.key
+*.pem
+
+# Redis files (if you're storing Redis PID files or any Celery-related files)
+celerybeat-schedule
+*.pid
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Pillow image cache or similar temporary files
+*.jpg
+*.png
+*.jpeg
+*.gif
+
+# Thumbnails
+_thumbs/
