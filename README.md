@@ -4,6 +4,10 @@
 
 Socially is a Django-based social media platform that integrates various third-party authentication methods using **social-auth-app-django** and features user profiles with image handling powered by **easy-thumbnails**. The project also leverages Redis for task management, Celery for background processing, and Stripe for payment processing. 
 
+
+![Slideshow](Socially_images/socially_images/socially_gif.gif)
+
+
 ## Features
 - User authentication with popular social media platforms (using **social-auth-app-django**).
 - User profile management, including profile pictures (via **easy-thumbnails**).
